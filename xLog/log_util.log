@@ -1,0 +1,21 @@
+[2018-03-09 22:41:40] [INFO] [/Users/zhuhao/Python/xPython/xLog/log_util.py 49 <module>] hello world!
+[2018-03-09 22:41:40] [ERROR] exception
+None
+[2018-03-09 22:46:27] [INFO] [/Users/zhuhao/Python/xPython/xLog/log_util.py 49 main] hello world!
+[2018-03-09 22:46:27] [ERROR] exception
+None
+[2018-03-09 22:46:27] [ERROR] error
+[2018-03-09 22:48:16] [INFO] [/Users/zhuhao/Python/xPython/xLog/log_util.py 49 main] hello world!
+[2018-03-09 22:48:16] [ERROR] exception
+None
+[2018-03-09 22:48:16] [ERROR] error
+None
+[2018-03-09 22:48:33] [INFO] [/Users/zhuhao/Python/xPython/xLog/log_util.py 49 main] hello world!
+[2018-03-09 22:48:33] [ERROR] exception
+None
+[2018-03-09 22:48:33] [ERROR] error
+[2018-08-28 12:30:21] [INFO] [C:/Users/59282/Desktop/18ÄêÕÒ¹¤×÷/github/xPython-master/xLog/log_util.py 49 main] hello world!
+[2018-08-28 12:30:21] [ERROR] exception
+None
+[2018-08-28 12:30:21] [ERROR] error
+None
